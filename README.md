@@ -9,10 +9,10 @@
 
 ## REPOSITORY
 
-- [ÁJẸ̀YÓ Food Hub](https://github.com/Oseni-Muhammad/muhammad-ajeyo-app)
+- [ÁJẸ̀YÓ Food Hub](https://github.com/Oseni-Muhammad/Muhammad-ajeyo-app)
 
 ## Assignment
 
-[Check Assignment](https://oseni-muhammad.github.io/muhammad-ajeyo-app/)
+[Check Assignment](https://oseni-muhammad.github.io/Muhammad-ajeyo-app/)
 
 ### BY Oseni-Muhammad
