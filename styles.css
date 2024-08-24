@@ -1,0 +1,289 @@
+/* Cascading Style Sheets */
+/* using external style */
+* {
+    box-sizing: border-box;
+    font-family: "Baskervville SC", sans-serif;
+  }
+  .menu-list {
+    /* About AFC Our Menu Operation Hours Contact Us */
+    width: 149px;
+    height: 136px;
+    left: 114px;
+    top: 101px;
+    font-family: "Baskervville SC";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 34px;
+    color: #000000;
+  }
+  .hero-image1 {
+    /* american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food 1 */
+    width: 607px;
+    height: 443px;
+    left: 88px;
+    top: 278px;
+  }
+  .tiny-paragraph {
+    /* Ajeyo food canteen */
+    font-family: "Baskervville SC";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+  }
+  
+  .about-style {
+    font-family: "Baskervville SC";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+  }
+  a {
+    /* Back to Top */
+    width: 90px;
+    height: 19px;
+    left: 88px;
+    top: 1243px;
+    font-family: "Baskervville SC";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #000000;
+  }
+  
+  .container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #000;
+    background-color: #f9f9f9;
+  }
+  table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 50px auto 50px 0;
+    font-family: "Baskervville SC", sans-serif;
+    border: 1px solid #000;
+  }
+  
+  th,
+  td {
+    border: 1px solid #000;
+    padding: 12px 15px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: white;
+    font-weight: 600;
+  }
+  
+  caption {
+    caption-side: top;
+    font-size: 1.5em;
+    margin-bottom: none;
+    font-weight: 400;
+    border: 1px solid #000;
+  }
+  
+  td {
+    font-size: 1em;
+  }
+  
+  tr:nth-child(even) {
+    background-color: white;
+  }
+  .hero-image2 {
+    /* Swallow*/
+    width: 607px;
+    height: 443px;
+    left: 88px;
+    top: 278px;
+  }
+  .opening-days {
+    /* We are open 7days a week */
+    font-family: "Baskervville SC";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    /* identical to box height */
+    color: #000000;
+  }
+  .mon-sun1 {
+    /* Sunday - Thursday */
+    width: 1090px;
+    height: 19px;
+    left: 88px;
+    top: 901px;
+    font-family: "Baskervville SC";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+  }
+  .time-week1 {
+    /* 11 am - 9pm */
+    width: 1090px;
+    height: 19px;
+    left: 114px;
+    top: 936px;
+    font-family: "Baskervville SC";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+  }
+  .mon-sun2 {
+    /* Friday - Saturday */
+    width: 1090px;
+    height: 19px;
+    left: 88px;
+    top: 975px;
+    font-family: "Baskervville SC";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+  }
+  .time-week2 {
+    /* 11 am - 11pm */
+    width: 1090px;
+    height: 19px;
+    left: 114px;
+    top: 1010px;
+    font-family: "Baskervville SC";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+  }
+  footer {
+    /* Copyright © Ajeyo Food Canteen 2023 */
+    font-family: "Baskervville SC";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    color: #000000;
+  }
+  .hero-image3 {
+    /* Jollof Spag Gourmet*/
+    width: 607px;
+    height: 443px;
+    left: 88px;
+    top: 278px;
+  }
+  .container2 {
+    margin: 50px auto 50px 0;
+    width: 50%;
+  }
+  fieldset {
+    border: 1px solid #000;
+    padding: 20px;
+    margin: 50px auto 50px 0;
+  }
+  
+  legend {
+    padding: 0 10px;
+    /* Send us A Message */
+    width: 224px;
+    height: 29px;
+    left: 112px;
+    top: 871px;
+    font-family: "Baskervville SC";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    color: #000000;
+  }
+  
+  label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 50%;
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  input[type="submit"],
+  input[type="reset"] {
+    padding: 10px 20px;
+    margin: 10px 5px 0 0;
+    background-color: #ddd;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover,
+  input[type="reset"]:hover {
+    background-color: #ccc;
+  }
+  section {
+    margin-top: 30px;
+  }
+  .underline {
+    text-decoration: underline;
+  }
+  .facebook {
+    position: absolute;
+    top: 10px;
+    right: 125px;
+    display: flex;
+    gap: 10px;
+  }
+  .twitter {
+    position: absolute;
+    top: 10px;
+    right: 100px;
+    display: flex;
+    gap: 10px;
+  }
+  .linkedin {
+    position: absolute;
+    top: 10px;
+    right: 75px;
+    display: flex;
+    gap: 10px;
+  }
+  .fa-brands {
+    font-size: 24px;
+  }
+  .fa-solid {
+    font: size 24px;
+  }
+  .home {
+    position: absolute;
+    top: 70px;
+    right: 100px;
+    display: flex;
+    gap: 10px;
+  }
+  svg {
+    position: fixed;
+    font-family: "Font Awesome 6 Brands";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    /* identical to box height */
+  
+    color: #000000;
+  }
+  
