@@ -2,7 +2,7 @@
 /* using external style */
 * {
     box-sizing: border-box;
-    font-family: "Baskervville SC", sans-serif;
+    font-family: "Space Grotesk", sans-serif;
   }
   .menu-list {
     /* About AFC Our Menu Operation Hours Contact Us */
@@ -10,7 +10,7 @@
     height: 136px;
     left: 114px;
     top: 101px;
-    font-family: "Baskervville SC";
+    font-family: "Space Grotesk";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -26,7 +26,7 @@
   }
   .tiny-paragraph {
     /* Ajeyo food canteen */
-    font-family: "Baskervville SC";
+    font-family: "Space Grotesk";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -35,7 +35,7 @@
   }
   
   .about-style {
-    font-family: "Baskervville SC";
+    font-family: "Space Grotesk";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -48,7 +48,7 @@
     height: 19px;
     left: 88px;
     top: 1243px;
-    font-family: "Baskervville SC";
+    font-family: "Space Grotesk";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -68,7 +68,7 @@
     width: 50%;
     border-collapse: collapse;
     margin: 50px auto 50px 0;
-    font-family: "Baskervville SC", sans-serif;
+    font-family: "Space Grotesk", sans-serif;
     border: 1px solid #000;
   }
   
@@ -108,7 +108,7 @@
   }
   .opening-days {
     /* We are open 7days a week */
-    font-family: "Baskervville SC";
+    font-family: "Space Grotesk";
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -121,7 +121,7 @@
     height: 19px;
     left: 88px;
     top: 901px;
-    font-family: "Baskervville SC";
+    font-family: "Space Grotesk";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -134,7 +134,7 @@
     height: 19px;
     left: 114px;
     top: 936px;
-    font-family: "Baskervville SC";
+    font-family: "Space Grotesk";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -147,7 +147,7 @@
     height: 19px;
     left: 88px;
     top: 975px;
-    font-family: "Baskervville SC";
+    font-family: "Space Grotesk";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -160,7 +160,7 @@
     height: 19px;
     left: 114px;
     top: 1010px;
-    font-family: "Baskervville SC";
+    font-family: "Space Grotesk";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -169,7 +169,7 @@
   }
   footer {
     /* Copyright © Ajeyo Food Canteen 2023 */
-    font-family: "Baskervville SC";
+    font-family: "Space Grotesk";
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -201,7 +201,7 @@
     height: 29px;
     left: 112px;
     top: 871px;
-    font-family: "Baskervville SC";
+    font-family: "Space Grotesk";
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
